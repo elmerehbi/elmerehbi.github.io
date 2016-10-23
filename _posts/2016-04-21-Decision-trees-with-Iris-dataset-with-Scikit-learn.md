@@ -209,7 +209,6 @@ Image(graph.create_png())
 
 
 
-![png](https://github.com/elmerehbi/elmerehbi.github.io/blob/master/images/output_31_0.png)
 ![_config.yml]({{ site.baseurl }}/images/output_31_0.png)
 
 
