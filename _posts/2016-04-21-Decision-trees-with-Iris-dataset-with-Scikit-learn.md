@@ -1,7 +1,3 @@
-
-# Machine Learning with Iris flower data set & Python's sckit-learn
-
-
 The [Iris flower dataset](https://en.wikipedia.org/wiki/Iris_flower_data_set) is composed of 4 variables (aka features) & 1 label (type of flower).
 
 ## 1. Importing dataset
