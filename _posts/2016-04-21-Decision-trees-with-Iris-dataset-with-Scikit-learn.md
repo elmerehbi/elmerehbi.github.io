@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Machine Learning with Iris flower data set & Python's sckit-learn
 ---
 
